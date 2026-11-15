@@ -1,0 +1,6 @@
+path: F:/图像深度学习科研/多模态—道路目标检测/数据集汇总/Brazil_YOLO11_2026/dataset
+train: train/images
+val: valid/images
+test: test/images
+nc: 6
+names: ['R-25a', 'R-25b', 'R-26', 'R-3', 'R-4a', 'R-4b']
