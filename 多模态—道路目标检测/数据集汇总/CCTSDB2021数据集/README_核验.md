@@ -1,5 +1,7 @@
 # CCTSDB2021 作者原版
 
+> 本页描述本地归档，不表示下列 ZIP 已上传到 GitHub。公开仓库的下载入口和校验值见 [README_公开下载.md](./README_公开下载.md)。
+
 - 作者仓库：<https://github.com/csust7zhangjm/CCTSDB2021>
 - 作者 Google Drive：<https://drive.google.com/drive/folders/14Km2W-5hbixXDfz7WSqW_Rx7O5m8ZMFn>
 - 数据论文：Zhang 等，CCTSDB 2021: A More Comprehensive Traffic Sign Detection Benchmark，HCIS 2022，DOI 10.22967/HCIS.2022.12.023。
