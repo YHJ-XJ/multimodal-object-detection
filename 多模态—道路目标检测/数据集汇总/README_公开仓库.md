@@ -9,6 +9,7 @@
 | GTSDB数据集 | 含第三方整理版 train/valid/test ZIP（545 图） | [Roboflow 整理版](https://universe.roboflow.com/mohamed-traore-2ekkp/gtsdb---german-traffic-sign-detection-benchmark/dataset/1)，CC BY 4.0；[Hugging Face 镜像](https://huggingface.co/datasets/keremberke/german-traffic-sign-detection) |
 | CCTSDB2021数据集 | 仅来源与核验记录；`train_img.zip` 和图片均不在仓库 | [逐包下载与校验说明](./CCTSDB2021数据集/README_公开下载.md)；请按作者页面获取 |
 | TT100K数据集 | 仅来源说明 | [清华大学官方页面](https://cg.cs.tsinghua.edu.cn/traffic-sign/)；本地也未下载完整数据 |
+| LLVIP_低照度行人检测 | 仅来源、许可、核验与转换脚本；不含原始图像及标注 | [原作者项目](https://github.com/bupt-ai-cz/LLVIP)、[使用许可](https://github.com/bupt-ai-cz/LLVIP/blob/main/Term%20of%20Use%20and%20License.md)；本地研究使用来自公开镜像的完整包 |
 
 ZIP 文件使用 Git LFS。若克隆后看到的是短文本指针，请运行 `git lfs pull`。解压后按各目录的 README 核对划分、类别和图像尺寸。Brazil 的 `data_local.yaml` 是本地路径配置示例；实际训练时按解压位置调整路径。
 

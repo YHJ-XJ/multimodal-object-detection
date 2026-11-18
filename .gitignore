@@ -1,0 +1,11 @@
+# LLVIP is licensed for noncommercial research; keep raw data local.
+多模态—道路目标检测/数据集汇总/LLVIP_低照度行人检测/*.zip
+多模态—道路目标检测/数据集汇总/LLVIP_低照度行人检测/基线准备*/
+多模态—道路目标检测/数据集汇总/LLVIP_低照度行人检测/配对与标注核验预览.png
+
+# Local experiment artifacts.
+**/__pycache__/
+**/*.pyc
+**/基线实验/
+**/runs/
+**/weights/
